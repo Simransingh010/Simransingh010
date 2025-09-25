@@ -1,13 +1,9 @@
-## Hi there 👋
+Hello there 👋
+A Full-Stack Developer by day ☼ and a Tech Creator/Contributor by night ☾
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=simransingh0101&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=simransingh010&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=simransingh010&show_icons=true" />
-</picture>
+Full-Stack Developer | MERN, Node.js, Python, Flutter | Open to building amazing products
+
+⚙️ I use daily: .js, .ts, .html, .css, .dart, .php, React, Next.js, Flutter, Node.js, MySQL, .svg, .psd, .ai
+🌍 Mostly active in tech communities, building projects and exploring new stack features
+💅 Designed & built projects like Hillquest, RoomSlot, personal apps, and other full-stack solutions
+💬 Ping me about web & mobile development, full-stack architecture, problem-solving, product building, Docker, CI/CD, and tech design
