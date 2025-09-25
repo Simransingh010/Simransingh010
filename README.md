@@ -1,6 +1,13 @@
 ## Hi there 👋
 
-![Simran's GitHub stats](https://github-readme-stats.vercel.app/api?username=simransingh010&show_icons=true&theme=transparent)
-<a href="https://www.instagram.com/thepiyushmalhotra/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
-</a>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=simransingh0101&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=simransingh010&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=simransingh010&show_icons=true" />
+</picture>
