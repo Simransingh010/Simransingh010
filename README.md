@@ -20,7 +20,3 @@
 - Personal projects using **Flutter, React, Next.js, Node.js, Python**  
 
 ---
-
-## 📈 GitHub Stats
-
-![Simranpreet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=simransingh010&show_icons=true&theme=radical)
