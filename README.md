@@ -15,7 +15,7 @@
 
 ## 💻 Projects & Work
 
-- **Hillquest** – Full-stack platform for hiking and adventure management  
+- **Hillquest** – Full-stack platform for Ad Hoarding Booking in Himachal Pradesh  
 - **RoomSlot** – Classroom, gym & hall rental platform (MVP, full-stack)  
 - Personal projects using **Flutter, React, Next.js, Node.js, Python**  
 
