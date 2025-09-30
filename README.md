@@ -8,7 +8,6 @@
 
 **Frontend:** `React.js` • `Next.js` • `HTML5` • `CSS3` • `TailwindCSS` • `Flutter`  
 **Backend:** `Node.js` • `Express.js` • `Python` • `Django` • `MERN Stack`  • `Laravel` 
-
 **Database:** `MySQL` • `MongoDB` • `PostgreSQL` • `SQLite`  
 **Tools & Others:** `Git` • `Docker` • `CI/CD` • `REST APIs` • `GraphQL` • `TypeScript` • `JavaScript` • `PHP`  
 
