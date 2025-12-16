@@ -1,22 +1,71 @@
 # 👋 Hi, I'm Simranpreet Singh
 
-**Full-Stack Developer | MERN, Node.js, Python, Flutter | Web & Mobile Apps**
+I help **businesses and early-stage startups** build  
+**internal tools, admin panels, and MVP backends** — fast, reliable, and scalable.
+
+If you need to:
+- replace spreadsheets
+- manage users, bookings, or operations
+- ship a backend quickly without chaos
+
+I can help.
 
 ---
 
-## ⚡ Tech Stack
+## 🧠 What I Specialize In
 
-**Frontend:** `React.js` • `Next.js` • `HTML5` • `CSS3` • `TailwindCSS` • `Flutter`  
-**Backend:** `Node.js` • `Express.js` • `Python` • `Django` • `MERN Stack`  • `Laravel`              
-**Database:** `MySQL` • `MongoDB` • `PostgreSQL` • `SQLite`  
-**Tools & Others:** `Git` • `Docker` • `CI/CD` • `REST APIs` • `GraphQL` • `TypeScript` • `JavaScript` • `PHP`  
+- Internal tools & admin dashboards  
+- Business management systems (HR, booking, operations)  
+- MVP backends for startups  
+- Fixing & extending existing applications  
+
+I focus on **logic, data flow, reliability, and speed**, not fancy animations.
+
+---
+
+## 🧩 Selected Projects
+
+### **Hillquest**
+Full-stack ad hoarding booking platform  
+- Admin panel for inventory & bookings  
+- Role-based access  
+- Backend APIs & database design  
+
+**Use case:** Replace manual booking & tracking with a centralized system.
 
 ---
 
-## 💻 Projects & Work under process
+### **RoomSlot**
+MVP platform for renting classrooms, gyms, and halls  
+- Admin dashboard  
+- Booking & availability logic  
+- End-to-end backend architecture  
 
-- **Hillquest** – Full-stack platform for Ad Hoarding Booking in Himachal Pradesh  
-- **RoomSlot** – Classroom, gym & hall rental platform (MVP, full-stack)  
-- Personal projects using **Flutter, React, Next.js, Node.js, Python**  
+**Use case:** Operational backend for a marketplace-style business.
 
 ---
+
+### **Other Work**
+- Booking systems  
+- Admin panels  
+- CRUD-heavy business applications  
+- MVP backends for web & mobile apps  
+
+---
+
+## 🛠 Tech I Use (when needed)
+
+Frontend: React, Next.js, Flutter  
+Backend: Node.js, Laravel, Django  
+Databases: PostgreSQL, MySQL, MongoDB  
+Tools: Docker, REST APIs, GraphQL, CI/CD  
+
+(Tech is chosen based on the problem — not trends.)
+
+---
+
+## 📬 Work With Me
+
+If you need an **admin panel, internal tool, or backend built or fixed**,  
+reach out — I’m happy to discuss your requirements.
+
